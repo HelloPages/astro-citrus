@@ -5,6 +5,8 @@
   Astro Citrus
 </h1>
 
+src/assets/images   logo
+
 Astro Citrus is a simple opinionated starter built with the Astro framework. Use it to create an easy-to-use blog or website.
 
 ## Table Of Contents
