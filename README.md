@@ -5,7 +5,9 @@
   Astro Citrus
 </h1>
 
-src/assets/images   logo
+src/assets/images   
+
+public/brand.svg  logo
 
 src/content  posts notes
 
